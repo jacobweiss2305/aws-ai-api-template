@@ -1,0 +1,5 @@
+openai
+newspaper3k
+yfinance
+lxml_html_clean
+phidata
